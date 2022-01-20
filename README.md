@@ -1,4 +1,4 @@
-# 🙋‍♂️Welcome to Lee JackDay!
+# 🙋‍♂️Welcome to Lin!
 
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=jackday001.jackday001" alt="visitors">
@@ -10,10 +10,11 @@
 
 ---
 
-🎓 I am a Fullstack Web Developer (specializing in React Applications) and also Bachelor in Computer Science & Engineering graduated in 2016.
+🎓 I am a Fullstack Web Developer (specializing in React Applications) and also Master's Degree in Computer Science & Engineering graduated in 2016.
 
-👨‍💻 I am really enthusiastic about learning new technology.<br/>
-Last year, I learned Typescript, Next.js, GraphQL, and Blockchain development & DApps.
+💻 Years of professional experience in working with Blockchain frameworks and creating business applications and platforms.
+
+👨‍💻 I am really enthusiastic about learning new technology.
 
 ---
 
