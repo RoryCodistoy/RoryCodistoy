@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=jackday001.jackday001" alt="visitors">
     <br /><br />
-    <img src="https://github-profile-trophy.vercel.app/?username=jackday001&row=1&column=6&margin-h=8&theme=discord&count_private=true&margin-w=15&no-frame=false" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lin-crypto&row=1&column=6&margin-h=8&theme=discord&count_private=true&margin-w=15&no-frame=false" alt="profile trophies" />
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=jackday001&theme=discord_old_blurple&show_icons=true&hide_border=false" alt="gitHub stats">
 </div>
