@@ -5,7 +5,7 @@
     <br /><br />
     <img src="https://github-profile-trophy.vercel.app/?username=lin-crypto&row=1&column=6&margin-h=8&theme=discord&count_private=true&margin-w=15&no-frame=false" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=jackday001&theme=discord_old_blurple&show_icons=true&hide_border=false" alt="gitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lin-crypto&theme=discord_old_blurple&show_icons=true&hide_border=false" alt="gitHub stats">
 </div>
 
 ---
