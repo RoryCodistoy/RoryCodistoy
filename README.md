@@ -20,6 +20,11 @@
 
 <br/>
 
+![ethereum](https://img.shields.io/badge/ETH-3C3C3D?logo=ethereum)
+![bsc](https://img.shields.io/badge/BSC-222200?logo=binance)
+![solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![web3](https://img.shields.io/badge/Web_3-F16822?logo=web3.js&logoColor=white)
+
 ![javascript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
@@ -49,8 +54,3 @@
 ![mongodb](https://img.shields.io/badge/Monngodb-005500?logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-1370a8?logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/Postgresql-00576a?logo=postgresql&logoColor=white)
-
-![ethereum](https://img.shields.io/badge/ETH-3C3C3D?logo=ethereum)
-![bsc](https://img.shields.io/badge/BSC-222200?logo=binance)
-![solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![web3](https://img.shields.io/badge/Web_3-F16822?logo=web3.js&logoColor=white)
