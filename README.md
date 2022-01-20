@@ -1,7 +1,7 @@
 # 🙋‍♂️Welcome to Lin!
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=jackday001.jackday001" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=lin-crypto.lin-crypto" alt="visitors">
     <br /><br />
     <img src="https://github-profile-trophy.vercel.app/?username=lin-crypto&row=1&column=6&margin-h=8&theme=discord&count_private=true&margin-w=15&no-frame=false" alt="profile trophies" />
     <br />
