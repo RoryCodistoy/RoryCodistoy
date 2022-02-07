@@ -1,6 +1,6 @@
 # 🙋‍♂️Welcome to Thomas!
 
-<div align="center"><img src="https://raw.githubusercontent.com/lin-cryto/lin-crypto/master/readme.svg" alt="I am a Fullstack Web Developer (specializing in React Applications) and also Master's Degree in Computer Science & Engineering graduated in 2016."></div>
+<div align="center"><img src="https://raw.githubusercontent.com/lin-cryto/lin-crypto/main/readme.svg" alt="I am a Fullstack Web Developer (specializing in React Applications) and also Master's Degree in Computer Science & Engineering graduated in 2016."></div>
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=lin-crypto.lin-crypto" alt="visitors">
     <br /><br />
@@ -10,7 +10,7 @@
 
 🎓 I am a Fullstack Web Developer (specializing in React Applications) and also Master's Degree in Computer Science & Engineering graduated in 2016.
 
-💻 Years of professional experience in working with Blockchain frameworks and creating business applications and platforms.
+💻 Years of professional experience in working with Blockchain frameworks and creating business applications and platforms since 2018.
 
 👨‍💻 I am really enthusiastic about learning new technology.
 
