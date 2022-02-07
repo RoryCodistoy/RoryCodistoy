@@ -1,11 +1,9 @@
 # 🙋‍♂️Welcome to Thomas!
 
+<div align="center"><img src="https://raw.githubusercontent.com/lin-cryto/lin-crypto/master/readme.svg" alt="I am a Fullstack Web Developer (specializing in React Applications) and also Master's Degree in Computer Science & Engineering graduated in 2016."></div>
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=lin-crypto.lin-crypto" alt="visitors">
     <br /><br />
-    <img src="https://github-profile-trophy.vercel.app/?username=lin-crypto&row=1&column=6&margin-h=8&theme=discord&count_private=true&margin-w=15&no-frame=false" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=lin-crypto&theme=discord_old_blurple&show_icons=true&hide_border=false" alt="gitHub stats">
 </div>
 
 ---
