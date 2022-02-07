@@ -1,10 +1,6 @@
 # 🙋‍♂️Welcome to Thomas!
 
 <div align="center"><img src="https://raw.githubusercontent.com/lin-crypto/lin-crypto/main/README.SVG" alt="I am a Fullstack Web Developer (specializing in React Applications) and also Master's Degree in Computer Science & Engineering graduated in 2016."></div>
-<div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=lin-crypto.lin-crypto" alt="visitors">
-    <br /><br />
-</div>
 
 ---
 
