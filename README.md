@@ -4,6 +4,10 @@
 
 ---
 
+dev.thomas128@gmail.com
+
+---
+
 🎓 I am a Fullstack Web Developer (specializing in React Applications) and also Master's Degree in Computer Science & Engineering graduated in 2016.
 
 💻 Years of professional experience in working with Blockchain frameworks and creating business applications and platforms since 2018.
