@@ -10,6 +10,8 @@
 
 👨‍💻 I am really enthusiastic about learning new technology.
 
+Currently, I'm working with Shinebox
+
 ---
 
 <br/>
