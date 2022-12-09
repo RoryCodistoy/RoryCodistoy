@@ -1,16 +1,12 @@
 # 🙋‍♂️Welcome to Thomas!
 
-<div align="center"><img src="https://raw.githubusercontent.com/lin-crypto/lin-crypto/main/README.SVG" alt="I am a Fullstack Web Developer (specializing in React Applications) and also Master's Degree in Computer Science & Engineering graduated in 2016."></div>
-
 ---
 
-🎓 I am a Fullstack Web Developer (specializing in React Applications) and also Master's Degree in Computer Science & Engineering.
+🎓 I am a Fullstack Web Developer (specializing in JS Applications) and also Bachelor's Degree in Computer Science & Software Engineering.
 
 💻 Years of professional experience in working with Blockchain frameworks and creating business applications and platforms since 2018.
 
-👨‍💻 I am really enthusiastic about learning new technology.
-
-Currently, I'm working with Shinebox
+👨‍💻 I am really enthusiastic about learning new technologies.
 
 ---
 
