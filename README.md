@@ -8,9 +8,7 @@
 👨‍💻 Enthusiastic about learning & using new technologies. <br />
 
 ---
-
 <br/>
-
 ![ethereum](https://img.shields.io/badge/ETH-3C3C3D?logo=ethereum)
 ![bsc](https://img.shields.io/badge/BSC-222200?logo=binance)
 ![solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
