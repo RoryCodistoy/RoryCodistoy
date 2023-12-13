@@ -1,18 +1,16 @@
-# 🙋‍♂️Welcome to Thomas!!
+# 😉 Watch at my eyes and receive my wink.
 
 ---
 
-🎓 I am a Full-Stack Web Developer (Front-End & Back-End) and also Bachelor's Degree in Computer Science & Software Engineering. <br />
-💻 Years of professional experience in working with Blockchain frameworks and creating business applications and platforms since 2018. <br />
-🎢 High skilled in Mobile Development (iOS & Android) e.g. Wallet, Social, Finance, P2P, Simple Game, and etc. <br />
-👨‍💻 Enthusiastic about learning & using new technologies. <br />
+🎓 I am a <b>Senior Web Developer</b> with a Bachelor's Degree in Computer Science and Software Engineering. <br />
+💻 I have over <b>10 years of professional experience</b> working with JS frameworks and creating business applications and platforms. <br />
+🎢 Highly skilled in <b>programming languages</b> such as Ruby, Python, PHP, TypeScript, and more. <br />
+👨‍💻 Passionate about learning and using <b>new technologies</b>. <br />
 
 ---
 
-![ethereum](https://img.shields.io/badge/ETH-3C3C3D?logo=ethereum)
-![bsc](https://img.shields.io/badge/BSC-222200?logo=binance)
-![solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![web3](https://img.shields.io/badge/Web_3-F16822?logo=web3.js&logoColor=white)
+![angular](https://img.shields.io/badge/Angular-F33F26?&logo=angular&logoColor=F1DAFB)
+![ror](https://img.shields.io/badge/Ruby_on_Rails-0F0F0F?&logo=rubyonrails&logoColor=FF0000)
 <br/>
 ![javascript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -22,17 +20,18 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?&logo=sass&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 <br/>
-![react](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
-![redux](https://img.shields.io/badge/Redux-593D88?&logo=redux&logoColor=white)
-![next](https://img.shields.io/badge/Next-000000?&logo=nextdotjs&logoColor=FFFFFF)
-<br/>
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?logo=mui&logoColor=white)
 ![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?logo=tailwind-css&logoColor=white)
 <br/>
-![graphql](https://img.shields.io/badge/GraphQL-E434AA?logo=graphql&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
+![redux](https://img.shields.io/badge/Redux-593D88?&logo=redux&logoColor=white)
+![next](https://img.shields.io/badge/Next-000000?&logo=nextdotjs&logoColor=FFFFFF)
+![vue](https://img.shields.io/badge/Vue-009a30?&logo=vuedotjs&logoColor=FFFFFF)
+![nuxt](https://img.shields.io/badge/Nuxt-000000?&logo=nuxtdotjs&logoColor=FFFFFF)
 <br/>
+![graphql](https://img.shields.io/badge/GraphQL-E434AA?logo=graphql&logoColor=white)
 ![three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)
 <br/>
 ![node](https://img.shields.io/badge/Node.js-00aa00?logo=node.js&logoColor=white)
