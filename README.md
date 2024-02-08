@@ -5,5 +5,4 @@
 🎢 Highly skilled in <b>programming languages</b> including Python, Solidity, Rust and more. <br />
 👨‍💻 Passionate about learning and using <b>new technologies</b>. <br />
 
-Daniel Polanco
 ---
